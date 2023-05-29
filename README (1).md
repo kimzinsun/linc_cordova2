@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/48661711/230541590-2322ff07-484b-45b0-
 ## 5. google map api 사용
 <img width="336" alt="스크린샷 2023-04-07 오후 1 36 07" src="https://user-images.githubusercontent.com/48661711/230541689-1ea0e41c-6cb5-4dc9-b60f-c87be5ef0075.png">
 
-## 6. chart.js로 차트 추가
+## 6. chart.js
 <img width="336" alt="스크린샷 2023-04-07 오후 1 30 10" src="https://user-images.githubusercontent.com/48661711/230541702-49f075bb-aa88-4bf6-bacc-6705a7b95457.png">
 
 
