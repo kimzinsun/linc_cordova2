@@ -19,7 +19,6 @@
 - info icon 추가
 - google map api로 지도 추가
 - Chart.js
-- database로 로그인 기능 (실패..)
 
 ## 1. Splash screen 추가
 
@@ -49,7 +48,4 @@ https://user-images.githubusercontent.com/48661711/230541590-2322ff07-484b-45b0-
 ## 6. chart.js로 차트 추가
 <img width="336" alt="스크린샷 2023-04-07 오후 1 30 10" src="https://user-images.githubusercontent.com/48661711/230541702-49f075bb-aa88-4bf6-bacc-6705a7b95457.png">
 
-## 7. database이용한 로그인 기능 (실패)
-<img width="336" alt="스크린샷 2023-04-07 오후 1 30 15" src="https://user-images.githubusercontent.com/48661711/230541736-c6970504-f96d-4ae5-9b70-bd8e56cfb0d6.png">
-<img width="336" alt="스크린샷 2023-04-07 오후 1 30 37" src="https://user-images.githubusercontent.com/48661711/230541777-778f7ef1-2b64-4116-8780-3521bb95c7ee.png">
 
